@@ -6,7 +6,7 @@ I design, build, and maintain Recommender Systems (RecSys) with a strong foundat
 
 🚀 About Me
 
-🤖 Machine Learning Engineer specializing in Recommendation Systems
+🤖 Machine Learning Engineer specializing in Recommender Systems
 
 📐 Strong foundation in Linear Algebra, Calculus, Statistics, and Machine Learning
 
