@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there 👋 I'm Dat
 
-<!--
-**westbrook210207-tech/westbrook210207-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer based in Vietnam 🇻🇳
 
-Here are some ideas to get you started:
+I design, build, and maintain Recommendation Systems (RecSys) with a strong foundation in mathematics, machine learning, and scalable data systems. I'm passionate about turning data into intelligent products and continuously learning new technologies across the ML ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+🤖 Machine Learning Engineer specializing in Recommendation Systems
+📐 Strong foundation in Linear Algebra, Calculus, Statistics, and Machine Learning
+🏗️ Interested in designing scalable ML systems from data pipelines to deployment
+📚 Always learning and exploring modern ML infrastructure and distributed systems
+
+🎯 Current Focus
+Building production-ready Recommendation Systems
+Learning scalable ML architectures
+Improving model serving and inference pipelines
+Distributed data processing
+MLOps best practices
