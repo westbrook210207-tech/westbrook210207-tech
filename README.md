@@ -2,7 +2,7 @@ Hi there 👋 I'm Dat
 
 Machine Learning Engineer based in Vietnam 🇻🇳
 
-I design, build, and maintain Recommendation Systems (RecSys) with a strong foundation in mathematics, machine learning, and scalable data systems. I'm passionate about turning data into intelligent products and continuously learning new technologies across the ML ecosystem.
+I design, build, and maintain Recommender Systems (RecSys) with a strong foundation in mathematics, machine learning, and scalable data systems. I'm passionate about turning data into intelligent products and continuously learning new technologies across the ML ecosystem.
 
 🚀 About Me
 🤖 Machine Learning Engineer specializing in Recommendation Systems
