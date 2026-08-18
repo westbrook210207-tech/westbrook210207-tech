@@ -20,3 +20,5 @@ Learning scalable ML architectures
 Improving model serving and inference pipelines
 Distributed data processing
 MLOps best practices
+
+[![My Skills](https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,git,postgres)](https://skillicons.dev)
